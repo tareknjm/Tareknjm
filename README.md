@@ -1,84 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0B1220&height=150&section=header&text=Full%20Stack%20Developer&fontSize=32&fontColor=4F8BFF&animation=fadeIn&fontAlignY=42&desc=Tarek%20Najem%20%C2%B7%20Developer%20Intelligence%20Interface&descAlignY=68&descSize=14&descColor=8b95ab" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0B1220&height=170&section=header&text=Tarek%20Najem&fontSize=46&fontColor=4F8BFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=F8FAFC" width="100%"/>
 
-</div>
-
-<div align="center">
-
-```
-Initializing Portfolio...
-████████████████████████  100%
-
-AI Assistant Online
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ◉ Identity Verification
-
-<img src="./assets/face-scan.svg" width="240" alt="identity scan"/>
-
-```
-Analyzing profile...
-✔ Face recognized
-✔ Identity verified
-✔ Portfolio loaded
-```
-
-**Welcome back, Tarek Najem.**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Full Stack Developer
-
-From database to interface —
-building complete web applications end to end.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Backend+%2B+Frontend+%2B+Infra;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=520&lines=Backend+%2B+Frontend+%2B+Infra;Building+End-to-End+Web+Products;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
 ![Available](https://img.shields.io/badge/-Available%20for%20Internship-111827?style=for-the-badge&labelColor=111827&color=4F8BFF)
+![Views](https://komarev.com/ghpvc/?username=tareknjm&style=for-the-badge&color=4F8BFF&labelColor=111827&label=VIEWS)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header" width="100%"/>
+<div align="center">
+
+*I enjoy building reliable backend systems and intuitive interfaces —*
+*software that behaves correctly, not just software that demos well.*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30" width="100%"/>
 
 <div align="center">
 
-## Dashboard
+## 🧩 Overview
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**📍 About Me**
+**📍 About**
 
-Étudiant en ingénierie informatique, développeur full stack : je conçois autant le backend (API, sécurité, base de données) que le frontend (interfaces React modernes), et je déploie le tout via Docker.
-
-</td>
-<td align="center" width="33%">
-
-**🧭 Experience**
-
-2 plateformes complètes livrées, de l'authentification à l'infrastructure Docker, avec plus de 50 tests automatisés.
+Étudiant en ingénierie informatique, développeur full stack orienté backend
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**🎯 Current Focus**
+**🎯 Focus**
 
-Renforcer l'architecture sécurisée, la culture du test, et explorer les systèmes distribués.
+Architecture sécurisée, tests, infra Docker
+
+</td>
+<td align="center" width="25%">
+
+**🛠 Stack**
+
+Java · Spring Boot
+React · PostgreSQL
+
+</td>
+<td align="center" width="25%">
+
+**📡 Contact**
+
+[GitHub](https://github.com/tareknjm)
 
 </td>
 </tr>
@@ -90,30 +67,36 @@ Renforcer l'architecture sécurisée, la culture du test, et explorer les systè
 
 <div align="center">
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**▣ HealthCheck Monitor**
-*Real-time monitoring platform*
+### 🩺 HealthCheck Monitor
+*Real-time HTTP/HTTPS monitoring platform*
 
 `Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
 
-Auth centralisée, protection anti-SSRF, orchestration Docker Compose healthchecked, 50+ tests.
+- Auth centralisée via Keycloak
+- Protection anti-SSRF (`UrlSecurityValidator`)
+- Docker Compose entièrement healthchecked
+- 50+ tests, backend & frontend
 
 [→ View Project](https://github.com/stodar/Observateur-des-services)
 
 </td>
 <td width="50%" valign="top">
 
-**▣ E-Learning Platform**
-*Full learning platform, end to end*
+### 🎓 E-Learning Platform
+*Enrollment to certification, end to end*
 
 `Spring Boot` `JWT` `MySQL` `React` `Vite`
 
-Auth JWT multi-rôles, quiz interactifs, certificats PDF, chatbot et analytics.
+- Auth JWT multi-rôles (Admin/Instructor/Learner)
+- Quiz interactifs + certificats PDF auto
+- Dashboard par rôle
+- Chatbot & analytics intégrés
 
 [→ View Project](https://github.com/tareknjm/elearning-backend)
 
@@ -127,7 +110,7 @@ Auth JWT multi-rôles, quiz interactifs, certificats PDF, chatbot et analytics.
 
 <div align="center">
 
-## Stack
+## ⚙️ Tech Stack
 
 <table>
 <tr>
@@ -138,6 +121,7 @@ Auth JWT multi-rôles, quiz interactifs, certificats PDF, chatbot et analytics.
 Java
 Spring Boot
 Laravel · Django
+.NET · PHP
 
 </td>
 <td align="center" width="25%">
@@ -147,6 +131,7 @@ Laravel · Django
 React
 Angular
 Tailwind CSS
+JavaScript
 
 </td>
 <td align="center" width="25%">
@@ -159,7 +144,7 @@ MySQL
 </td>
 <td align="center" width="25%">
 
-**Tools**
+**DevOps**
 
 Docker
 Git
@@ -175,12 +160,12 @@ Keycloak
 
 <div align="center">
 
-## Active Mission
+## 🔨 Currently Building
 
 | | |
 |---|---|
-| **Currently Building** | HealthCheck Monitor |
-| **Next Goal** | Cloud-Native Architecture |
+| **In progress** | HealthCheck Monitor — tests & documentation |
+| **Next goal** | Explorer les architectures cloud-native |
 
 </div>
 
@@ -188,7 +173,7 @@ Keycloak
 
 <div align="center">
 
-## GitHub Insights
+## 📊 GitHub Stats
 
 ![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
 ![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
@@ -200,11 +185,17 @@ Keycloak
 
 <div align="center">
 
-## Let's Build Something Great
+## 💬 Let's Build Something Great
 
-[![Contact](https://img.shields.io/badge/-Get%20In%20Touch-4F8BFF?style=for-the-badge&logoColor=white)](https://github.com/tareknjm)
+<a href="https://github.com/tareknjm"><img src="https://img.shields.io/badge/-Get%20In%20Touch-4F8BFF?style=for-the-badge&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
+
+────────────────────────
+
+**Thanks for stopping by.**
+
+────────────────────────
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:050816&height=90&section=footer" width="100%"/>
 
