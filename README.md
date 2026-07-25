@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0B1E,100:1A0F2E&height=160&section=header&text=T.A.R.E.K.%20OS&fontSize=42&fontColor=8B5CF6&animation=fadeIn&fontAlignY=42&desc=Developer%20Recognition%20System%20v3.2&descAlignY=68&descSize=14&descColor=9CA3AF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0B1E,100:1A0F2E&height=170&section=header&text=OPEN%20POSITION&fontSize=44&fontColor=8B5CF6&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20Full%20Stack&descAlignY=68&descSize=16&descColor=E5E5E5" width="100%"/>
+
+![Status](https://img.shields.io/badge/-1%20Position%20%C2%B7%201%20Candidate-0F0B1E?style=for-the-badge&labelColor=0F0B1E&color=8B5CF6)
+![Availability](https://img.shields.io/badge/-Available%20for%20Internship-0F0B1E?style=for-the-badge&labelColor=0F0B1E&color=22C55E)
 
 </div>
 
@@ -8,200 +11,160 @@
 
 <div align="center">
 
-```
-██████████████████████████  100%
-INITIALIZING SYSTEM...
-██████████████████████████  100%
-LOADING MODULES...
-██████████████████████████  100%
-OPENING CAMERA...
-```
+### 📋 Job Posting
 
-<sub>module.backend ✓&nbsp;&nbsp;module.frontend ✓&nbsp;&nbsp;module.devops ✓&nbsp;&nbsp;module.coffee ✓</sub>
+**Company:** *your team*
+**Location:** Remote / Morocco 🇲🇦
+**Type:** Internship / Full-time
+**Posted by:** Tarek Najem, applying to himself
+
+*I'm not asking you to read a profile. I'm asking you to review a candidate.*
 
 </div>
 
 <br/>
 
-<div align="center">
+---
 
-### 📷 Scanning environment...
+## 🧾 About the role
 
-<img src="./assets/face-scan.svg" width="280" alt="face scan"/>
+We're looking for a full stack developer who doesn't just make things work in a demo — someone who thinks about auth, edge cases, and what happens when things fail. Someone who writes tests because they care about the outcome, not because a checklist says so.
 
-```
-✓ Human detected
-✓ Laptop detected
-✓ Keyboard detected
-✓ Coffee cup detected
-✓ Developer signature detected
+**Good news: that candidate already applied.**
 
-confidence: 99.98%
-```
+---
 
-</div>
+## ✅ Requirements — matched
 
-<br/>
-
-<div align="center">
-
-## 🧠 Identity confirmed
-
-| | |
+| Requirement | Status |
 |---|---|
-| **Name** | Tarek Najem |
-| **Role** | Software Engineer |
-| **Class** | Full Stack — Backend-leaning |
-| **Location** | 🇲🇦 Morocco |
-| **Status** | 🟢 Online |
-| **Threat level** | 0% |
-| **Creativity** | 99% |
-| **Problem solving** | 96% |
-| **Coffee dependency** | ∞ |
-
-**Access granted.**
-
-</div>
-
-<br/>
+| Solid backend fundamentals (Java / Spring Boot) | ✅ Met |
+| Modern frontend experience (React / Tailwind) | ✅ Met |
+| Understands authentication & security (JWT, OAuth2, Keycloak) | ✅ Met |
+| Writes real tests, not just code that "looks done" | ✅ Met — 50+ tests shipped |
+| Comfortable with Docker / containerized infra | ✅ Met |
+| Can ship a project end-to-end, alone | ✅ Met — 2x |
+| Communicates clearly, documents work | ✅ You're reading it |
 
 ---
 
-<div align="center">
-
-## 📊 AI Profile Analysis
-
-```
-Analyzing repositories...
-
-Languages detected
-  Java          ████████████████░░  80%
-  JavaScript    ██████████████░░░░  70%
-  SQL           ███████████░░░░░░░  55%
-
-Architecture patterns
-  ✓ REST APIs
-  ✓ Role-based access control
-  ✓ Event-driven groundwork
-  ✓ Containerized infrastructure
-
-Confidence: 98%
-Verdict: Potential Software Architect
-```
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🖥️ Dashboard
+## 💼 Proven experience — case studies
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**System status**
-```
-learning     : AI / Cloud
-building     : HealthCheck Monitor
-location     : Morocco
-coffee       : █████████░ 90%
-```
+### 🩺 HealthCheck Monitor
+**Challenge:** build a monitoring platform that catches failures before they become incidents.
+
+**What was delivered:**
+- SSRF-hardened URL validation
+- Centralized auth via Keycloak
+- Fully healthchecked Docker Compose stack
+- 50+ passing tests, backend & frontend
+
+`Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
+
+[→ Review the work](https://github.com/stodar/Observateur-des-services)
 
 </td>
 <td width="50%" valign="top">
 
-**Core directive**
-> I enjoy building reliable backend systems
-> and intuitive interfaces — software that
-> behaves correctly, not just software that
-> demos well.
+### 🎓 E-Learning Platform
+**Challenge:** ship a learning platform covering enrollment through certification.
+
+**What was delivered:**
+- JWT auth across 3 distinct roles
+- Auto-generated PDF certificates
+- Interactive quiz engine
+- Integrated chatbot & analytics
+
+`Spring Boot` `JWT` `MySQL` `React` `Vite`
+
+[→ Review the work](https://github.com/tareknjm/elearning-backend)
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+## 🛠️ Skills on file
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**Backend**
+
+Java
+Spring Boot
+Laravel · Django
+.NET · PHP
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+
+React
+Angular
+Tailwind CSS
+JavaScript
+
+</td>
+<td align="center" width="25%">
+
+**Database**
+
+PostgreSQL
+MySQL
+
+</td>
+<td align="center" width="25%">
+
+**DevOps**
+
+Docker
+Git
+Keycloak
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-
-## 📂 Project Explorer
-
-</div>
-
-<details open>
-<summary><b>🩺 /projects/healthcheck-monitor</b> — real-time HTTP/HTTPS monitoring</summary>
-<br/>
-
-```
-stack     : Spring Boot · PostgreSQL · React · Keycloak · Docker
-security  : SSRF protection (UrlSecurityValidator)
-auth      : centralized via Keycloak
-infra     : Docker Compose, healthchecks on every service
-tests     : 50+ passing (backend + frontend)
-```
-
-🔗 [Open repository](https://github.com/stodar/Observateur-des-services)
-
-</details>
-
-<details>
-<summary><b>🎓 /projects/e-learning-platform</b> — enrollment to certification, end to end</summary>
-<br/>
-
-```
-stack     : Spring Boot · JWT · MySQL · React · Vite
-roles     : Admin / Instructor / Learner
-features  : interactive quizzes, auto-generated PDF certificates
-extras    : AI chatbot, usage analytics
-```
-
-🔗 [Open repository](https://github.com/tareknjm/elearning-backend)
-
-</details>
-
-<br/>
-
----
-
-<div align="center">
-
-## 📈 GitHub Stats
+## 📇 References
 
 ![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
 ![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
 ![Top Language](https://img.shields.io/github/languages/top/tareknjm/elearning-backend?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
 
-</div>
-
-<br/>
+*Full commit history and code samples available on request — see repositories above.*
 
 ---
 
 <div align="center">
 
-## 📡 Contact
+## 📨 How to apply
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
+Reach out, review the repositories, or just say hi.
+This candidate replies fast.
+
+[![GitHub](https://img.shields.io/badge/-View%20Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
 
 ```
-$ system.connect(tarek)
-> connection request sent — awaiting response...
+$ application.submit(candidate="Tarek Najem", role="Software Engineer")
+> application received.
+> recommendation: schedule interview.
 ```
 
 <br/>
 
 ────────────────────────
 
-**Thanks for stopping by.**
-Let's build something amazing.
+**This position has one applicant, and he's confident.**
 
 ────────────────────────
 
