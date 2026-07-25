@@ -208,13 +208,9 @@ services in production
 
 <br/>
 
-```
-Backend     ████████████████████░░░░  Java · Spring Boot
-Frontend    ██████████████████░░░░░░  React · Tailwind
-Security    ██████████████████░░░░░░  JWT · OAuth2 · Keycloak
-DevOps      ████████████████░░░░░░░░  Docker · Docker Compose
-Testing     ██████████████████░░░░░░  JUnit · Vitest
-```
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Backend%22%2C%20%22Frontend%22%2C%20%22Database%22%2C%20%22DevOps%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Technologies%22%2C%20%22data%22%3A%20%5B6%2C%204%2C%202%2C%203%5D%2C%20%22backgroundColor%22%3A%20%22%234F8BFF%22%2C%20%22borderRadius%22%3A%206%7D%5D%7D%2C%20%22options%22%3A%20%7B%22indexAxis%22%3A%20%22y%22%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Stack%20Breadth%20by%20Domain%22%2C%20%22color%22%3A%20%22%23F8FAFC%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23F8FAFC%22%2C%20%22stepSize%22%3A%201%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%231f2937%22%7D%7D%2C%20%22y%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23F8FAFC%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%231f2937%22%7D%7D%7D%7D%7D&backgroundColor=%23050816&width=500&height=260&devicePixelRatio=2" width="480"/>
+
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Backend%22%2C%20%22Frontend%22%2C%20%22Security%22%2C%20%22DevOps%22%2C%20%22Testing%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Focus%22%2C%20%22data%22%3A%20%5B85%2C%2078%2C%2080%2C%2068%2C%2078%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2879%2C139%2C255%2C0.35%29%22%2C%20%22borderColor%22%3A%20%22%234F8BFF%22%2C%20%22pointBackgroundColor%22%3A%20%22%234F8BFF%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Focus%20Areas%22%2C%20%22color%22%3A%20%22%23F8FAFC%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%231f2937%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%231f2937%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23F8FAFC%22%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22backdropColor%22%3A%20%22transparent%22%7D%2C%20%22suggestedMin%22%3A%200%2C%20%22suggestedMax%22%3A%20100%7D%7D%7D%7D&backgroundColor=%23050816&width=420&height=380&devicePixelRatio=2" width="380"/>
 
 <br/>
 
