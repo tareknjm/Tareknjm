@@ -51,26 +51,28 @@ Full Stack Developer focused on building secure, maintainable and production-rea
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://api.iconify.design/fa6-solid/heart-pulse.svg?color=%234F8BFF&height=18" valign="middle"/> **HealthCheck Monitor**
-<sub><i>Real-time HTTP/HTTPS monitoring platform</i></sub>
+<img src="https://api.iconify.design/fa6-solid/heart-pulse.svg?color=%234F8BFF&height=18" valign="middle"/> **HealthCheck Monitor** &nbsp;·&nbsp; <sub><i>Real-time HTTP/HTTPS monitoring platform</i></sub>
 
 <img src="https://img.shields.io/badge/-Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-Keycloak-111827?style=flat-square&logo=keycloak&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=4F8BFF"/>
 
-Auth centralisée via Keycloak · protection anti-SSRF (`UrlSecurityValidator`) · Docker Compose entièrement healthchecked · 50+ tests, backend & frontend.
+> Auth centralisée via Keycloak · protection anti-SSRF (`UrlSecurityValidator`) · Docker Compose entièrement healthchecked.
 
-<a href="https://github.com/stodar/Observateur-des-services">View Project <img src="https://api.iconify.design/fa6-solid/arrow-up-right-from-square.svg?color=%234F8BFF&height=11" valign="middle"/></a>
+<img src="https://api.iconify.design/fa6-solid/circle-check.svg?color=%234F8BFF&height=13" valign="middle"/> &nbsp;**50+ tests** passing, backend & frontend
+
+<sub>[View Project ↗](https://github.com/stodar/Observateur-des-services)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%234F8BFF&height=18" valign="middle"/> **E-Learning Platform**
-<sub><i>Enrollment to certification, end to end</i></sub>
+<img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%234F8BFF&height=18" valign="middle"/> **E-Learning Platform** &nbsp;·&nbsp; <sub><i>Enrollment to certification, end to end</i></sub>
 
 <img src="https://img.shields.io/badge/-Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-MySQL-111827?style=flat-square&logo=mysql&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-Vite-111827?style=flat-square&logo=vite&logoColor=4F8BFF"/>
 
-Auth JWT multi-rôles (Admin/Instructor/Learner) · quiz interactifs + certificats PDF auto · dashboard par rôle · chatbot & analytics intégrés.
+> Auth JWT multi-rôles (Admin/Instructor/Learner) · quiz interactifs + dashboard par rôle.
 
-<a href="https://github.com/tareknjm/elearning-backend">View Project <img src="https://api.iconify.design/fa6-solid/arrow-up-right-from-square.svg?color=%234F8BFF&height=11" valign="middle"/></a>
+<img src="https://api.iconify.design/fa6-solid/circle-check.svg?color=%234F8BFF&height=13" valign="middle"/> &nbsp;**Certificats PDF auto** + chatbot & analytics intégrés
+
+<sub>[View Project ↗](https://github.com/tareknjm/elearning-backend)</sub>
 
 </td>
 </tr>
