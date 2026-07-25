@@ -1,5 +1,10 @@
 <div align="center">
 
+```
+$ whoami
+> tarek — full stack developer, building things that hold up
+```
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0B1220&height=170&section=header&text=Tarek%20Najem&fontSize=46&fontColor=4F8BFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=F8FAFC" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=520&lines=Backend+%2B+Frontend+%2B+Infra;Building+End-to-End+Web+Products;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
@@ -78,6 +83,9 @@ React · PostgreSQL
 
 `Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
 
+```diff
++ SSRF-hardened URL validation, 50+ tests passing
+```
 - Auth centralisée via Keycloak
 - Protection anti-SSRF (`UrlSecurityValidator`)
 - Docker Compose entièrement healthchecked
@@ -93,6 +101,9 @@ React · PostgreSQL
 
 `Spring Boot` `JWT` `MySQL` `React` `Vite`
 
+```diff
++ Auto-generated PDF certificates, AI chatbot built in
+```
 - Auth JWT multi-rôles (Admin/Instructor/Learner)
 - Quiz interactifs + certificats PDF auto
 - Dashboard par rôle
@@ -162,10 +173,10 @@ Keycloak
 
 ## 🔨 Currently Building
 
-| | |
-|---|---|
-| **In progress** | HealthCheck Monitor — tests & documentation |
-| **Next goal** | Explorer les architectures cloud-native |
+```
+HealthCheck Monitor   ████████████████░░░░  tests & docs in progress
+Cloud-native skills    ██████░░░░░░░░░░░░░░  next goal
+```
 
 </div>
 
@@ -188,6 +199,10 @@ Keycloak
 ## 💬 Let's Build Something Great
 
 <a href="https://github.com/tareknjm"><img src="https://img.shields.io/badge/-Get%20In%20Touch-4F8BFF?style=for-the-badge&logoColor=white"/></a>
+
+```
+$ echo "let's build something great" | tarek --reply
+```
 
 <br/><br/>
 
