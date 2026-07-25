@@ -1,51 +1,202 @@
-<svg width="260" height="300" viewBox="0 0 260 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="photoClip">
-      <rect x="20" y="20" width="220" height="220" rx="6"/>
-    </clipPath>
-    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#4F8BFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#4F8BFF" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#4F8BFF" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<div align="center">
 
-  <rect width="260" height="300" fill="#050816"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0B1220&height=170&section=header&text=Tarek%20Najem&fontSize=46&fontColor=4F8BFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=F8FAFC" width="100%"/>
 
-  <image href="https://avatars.githubusercontent.com/u/191918881?s=400&u=d0ae202935b44b2c34d5aa9ccf9eb977e28517fc&v=4" x="20" y="20" width="220" height="220"
-         clip-path="url(#photoClip)" preserveAspectRatio="xMidYMid slice"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=520&lines=Backend+%2B+Frontend+%2B+Infra;Building+End-to-End+Web+Products;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
 
-  <rect x="20" y="20" width="220" height="220" rx="6" fill="none" stroke="#4F8BFF" stroke-opacity="0.45" stroke-width="1"/>
+[![GitHub](https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
+![Available](https://img.shields.io/badge/-Available%20for%20Internship-111827?style=for-the-badge&labelColor=111827&color=4F8BFF)
+![Views](https://komarev.com/ghpvc/?username=tareknjm&style=for-the-badge&color=4F8BFF&labelColor=111827&label=VIEWS)
 
-  <g filter="url(#glow)">
-    <rect x="20" width="220" height="12" fill="url(#scanGrad)">
-      <animate attributeName="y" values="20;230;20" dur="3s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+</div>
 
-  <g stroke="#4F8BFF" stroke-width="2.5" fill="none">
-    <path d="M20 38 V20 H38"/>
-    <path d="M222 20 H240 V38"/>
-    <path d="M240 222 V240 H222"/>
-    <path d="M38 240 H20 V222"/>
-  </g>
+<br/>
 
-  <circle cx="228" cy="30" r="4" fill="#4F8BFF">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
-  </circle>
+<div align="center">
 
-  <text x="130" y="270" text-anchor="middle" font-family="monospace" font-size="12" fill="#4F8BFF">
-    IDENTITY VERIFIED
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.6s" repeatCount="indefinite"/>
-  </text>
-  <text x="130" y="288" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b95ab">
-    tarek.najem — engineer.exe
-  </text>
-</svg>
+*I enjoy building reliable backend systems and intuitive interfaces —*
+*software that behaves correctly, not just software that demos well.*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30" width="100%"/>
+
+<div align="center">
+
+## 🧩 Overview
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**📍 About**
+
+Étudiant en ingénierie informatique, développeur full stack orienté backend
+
+</td>
+<td align="center" width="25%">
+
+**🎯 Focus**
+
+Architecture sécurisée, tests, infra Docker
+
+</td>
+<td align="center" width="25%">
+
+**🛠 Stack**
+
+Java · Spring Boot
+React · PostgreSQL
+
+</td>
+<td align="center" width="25%">
+
+**📡 Contact**
+
+[GitHub](https://github.com/tareknjm)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 HealthCheck Monitor
+*Real-time HTTP/HTTPS monitoring platform*
+
+`Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
+
+- Auth centralisée via Keycloak
+- Protection anti-SSRF (`UrlSecurityValidator`)
+- Docker Compose entièrement healthchecked
+- 50+ tests, backend & frontend
+
+[→ View Project](https://github.com/stodar/Observateur-des-services)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 E-Learning Platform
+*Enrollment to certification, end to end*
+
+`Spring Boot` `JWT` `MySQL` `React` `Vite`
+
+- Auth JWT multi-rôles (Admin/Instructor/Learner)
+- Quiz interactifs + certificats PDF auto
+- Dashboard par rôle
+- Chatbot & analytics intégrés
+
+[→ View Project](https://github.com/tareknjm/elearning-backend)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ⚙️ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Backend**
+
+Java
+Spring Boot
+Laravel · Django
+.NET · PHP
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+
+React
+Angular
+Tailwind CSS
+JavaScript
+
+</td>
+<td align="center" width="25%">
+
+**Database**
+
+PostgreSQL
+MySQL
+
+</td>
+<td align="center" width="25%">
+
+**DevOps**
+
+Docker
+Git
+Keycloak
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🔨 Currently Building
+
+| | |
+|---|---|
+| **In progress** | HealthCheck Monitor — tests & documentation |
+| **Next goal** | Explorer les architectures cloud-native |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
+![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
+![Top Language](https://img.shields.io/github/languages/top/tareknjm/elearning-backend?style=for-the-badge&labelColor=111827&color=4F8BFF)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 💬 Let's Build Something Great
+
+<a href="https://github.com/tareknjm"><img src="https://img.shields.io/badge/-Get%20In%20Touch-4F8BFF?style=for-the-badge&logoColor=white"/></a>
+
+<br/><br/>
+
+────────────────────────
+
+**Thanks for stopping by.**
+
+────────────────────────
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:050816&height=90&section=footer" width="100%"/>
+
+</div>
