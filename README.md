@@ -171,20 +171,52 @@ Keycloak
 
 <div align="center">
 
-## 🔨 Currently Building
+## 📊 By the Numbers
 
-```
-HealthCheck Monitor   ████████████████░░░░  tests & docs in progress
-Cloud-native skills    ██████░░░░░░░░░░░░░░  next goal
-```
+<table>
+<tr>
+<td align="center" width="25%">
 
-</div>
+### 2
+**Production apps**
+shipped end to end
+
+</td>
+<td align="center" width="25%">
+
+### 50+
+**Tests written**
+backend & frontend
+
+</td>
+<td align="center" width="25%">
+
+### 3
+**Auth systems**
+JWT · OAuth2 · Keycloak
+
+</td>
+<td align="center" width="25%">
+
+### 100%
+**Docker healthchecked**
+services in production
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
+```
+Backend     ████████████████████░░░░  Java · Spring Boot
+Frontend    ██████████████████░░░░░░  React · Tailwind
+Security    ██████████████████░░░░░░  JWT · OAuth2 · Keycloak
+DevOps      ████████████████░░░░░░░░  Docker · Docker Compose
+Testing     ██████████████████░░░░░░  JUnit · Vitest
+```
 
-## 📊 GitHub Stats
+<br/>
 
 ![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
 ![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
