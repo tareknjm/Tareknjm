@@ -1,191 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0B1E,100:1A0F2E&height=200&section=header&text=TAREK&fontSize=60&fontColor=8B5CF6&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20&descColor=E5E5E5" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Building+Reliable+Systems" alt="Typing SVG" />
-
-<sub>Java · Spring Boot · React · PostgreSQL · Docker</sub>
-
-<br/><br/>
-
-![Open Source](https://img.shields.io/badge/-Open%20Source-0F0B1E?style=for-the-badge&labelColor=0F0B1E&color=8B5CF6)
-![Learning](https://img.shields.io/badge/-Always%20Learning-0F0B1E?style=for-the-badge&labelColor=0F0B1E&color=8B5CF6)
-[![GitHub](https://img.shields.io/badge/-GitHub-0F0B1E?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0B1E)](https://github.com/tareknjm)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0B1E,100:1A0F2E&height=160&section=header&text=T.A.R.E.K.%20OS&fontSize=42&fontColor=8B5CF6&animation=fadeIn&fontAlignY=42&desc=Developer%20Recognition%20System%20v3.2&descAlignY=68&descSize=14&descColor=9CA3AF" width="100%"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-### Who I Am
-
-*I enjoy building reliable backend systems and intuitive interfaces —*
-*software that behaves correctly, not just software that demos well.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📍 About
-
-Étudiant en ingénierie informatique, orienté **full stack** avec une inclinaison backend. Je construis des systèmes sécurisés, testés, et pensés pour tenir en conditions réelles — pas seulement en démo.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔨 Current Focus
-
-- 🩺 En cours — **HealthCheck Monitor**
-- 🔐 Approfondir l'architecture sécurisée
-- 🧪 Culture du test systématique
-- ☁️ Exploration Cloud & CI/CD
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Tech Stack
-
-⚡ Backend — Java, Spring Boot
-🖥 Frontend — React, Tailwind
-🗄 Data — PostgreSQL, MySQL
-🐳 DevOps — Docker, Git
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Contact
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tareknjm)
-
-*(LinkedIn / Email — à ajouter)*
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Featured Projects
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-
-### 🩺 HealthCheck Monitor
-**Plateforme de supervision HTTP/HTTPS en temps réel**
-
-`Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
-
-Auth centralisée via Keycloak, protection anti-SSRF, orchestration Docker Compose avec healthchecks, et plus de 50 tests entre backend et frontend.
-
-[→ View Project](https://github.com/stodar/Observateur-des-services)
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-
-### 🎓 E-Learning Platform
-**Plateforme d'apprentissage complète**
-
-`Spring Boot` `JWT` `MySQL` `React` `Vite`
-
-Auth JWT multi-rôles (Admin/Instructor/Learner), quiz interactifs, certificats PDF automatisés, chatbot et analytics intégrés.
-
-[→ View Project](https://github.com/tareknjm/elearning-backend)
-
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## Tech Stack
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Backend**
-
-Java
-Spring Boot
-Laravel · Django
-.NET · PHP
-
-</td>
-<td align="center" width="25%">
-
-**Frontend**
-
-React
-Angular
-Tailwind CSS
-JavaScript
-
-</td>
-<td align="center" width="25%">
-
-**Database**
-
-PostgreSQL
-MySQL
-
-</td>
-<td align="center" width="25%">
-
-**DevOps**
-
-Docker
-Git
-Keycloak
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Terminal
-
-</div>
 
 <div align="center">
 
 ```
-> whoami
+██████████████████████████  100%
+INITIALIZING SYSTEM...
+██████████████████████████  100%
+LOADING MODULES...
+██████████████████████████  100%
+OPENING CAMERA...
+```
 
-Tarek
-Software Engineer
+<sub>module.backend ✓&nbsp;&nbsp;module.frontend ✓&nbsp;&nbsp;module.devops ✓&nbsp;&nbsp;module.coffee ✓</sub>
 
-Specialized in
-  Spring Boot · React · REST APIs · Secure Auth
+</div>
 
-Current focus
-  Testing · Cloud · System Design
+<br/>
+
+<div align="center">
+
+### 📷 Scanning environment...
+
+<img src="./assets/face-scan.svg" width="280" alt="face scan"/>
+
+```
+✓ Human detected
+✓ Laptop detected
+✓ Keyboard detected
+✓ Coffee cup detected
+✓ Developer signature detected
+
+confidence: 99.98%
 ```
 
 </div>
@@ -194,7 +45,135 @@ Current focus
 
 <div align="center">
 
-## GitHub Activity
+## 🧠 Identity confirmed
+
+| | |
+|---|---|
+| **Name** | Tarek Najem |
+| **Role** | Software Engineer |
+| **Class** | Full Stack — Backend-leaning |
+| **Location** | 🇲🇦 Morocco |
+| **Status** | 🟢 Online |
+| **Threat level** | 0% |
+| **Creativity** | 99% |
+| **Problem solving** | 96% |
+| **Coffee dependency** | ∞ |
+
+**Access granted.**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 AI Profile Analysis
+
+```
+Analyzing repositories...
+
+Languages detected
+  Java          ████████████████░░  80%
+  JavaScript    ██████████████░░░░  70%
+  SQL           ███████████░░░░░░░  55%
+
+Architecture patterns
+  ✓ REST APIs
+  ✓ Role-based access control
+  ✓ Event-driven groundwork
+  ✓ Containerized infrastructure
+
+Confidence: 98%
+Verdict: Potential Software Architect
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🖥️ Dashboard
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**System status**
+```
+learning     : AI / Cloud
+building     : HealthCheck Monitor
+location     : Morocco
+coffee       : █████████░ 90%
+```
+
+</td>
+<td width="50%" valign="top">
+
+**Core directive**
+> I enjoy building reliable backend systems
+> and intuitive interfaces — software that
+> behaves correctly, not just software that
+> demos well.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📂 Project Explorer
+
+</div>
+
+<details open>
+<summary><b>🩺 /projects/healthcheck-monitor</b> — real-time HTTP/HTTPS monitoring</summary>
+<br/>
+
+```
+stack     : Spring Boot · PostgreSQL · React · Keycloak · Docker
+security  : SSRF protection (UrlSecurityValidator)
+auth      : centralized via Keycloak
+infra     : Docker Compose, healthchecks on every service
+tests     : 50+ passing (backend + frontend)
+```
+
+🔗 [Open repository](https://github.com/stodar/Observateur-des-services)
+
+</details>
+
+<details>
+<summary><b>🎓 /projects/e-learning-platform</b> — enrollment to certification, end to end</summary>
+<br/>
+
+```
+stack     : Spring Boot · JWT · MySQL · React · Vite
+roles     : Admin / Instructor / Learner
+features  : interactive quizzes, auto-generated PDF certificates
+extras    : AI chatbot, usage analytics
+```
+
+🔗 [Open repository](https://github.com/tareknjm/elearning-backend)
+
+</details>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Stats
 
 ![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
 ![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
@@ -204,15 +183,20 @@ Current focus
 
 <br/>
 
+---
+
 <div align="center">
 
-> Build simple. Scale smart. Ship fast.
+## 📡 Contact
 
-</div>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
+
+```
+$ system.connect(tarek)
+> connection request sent — awaiting response...
+```
 
 <br/>
-
-<div align="center">
 
 ────────────────────────
 
