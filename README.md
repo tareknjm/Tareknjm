@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0B1220&height=150&section=header&text=AI%20Developer%20Intelligence%20Interface&fontSize=28&fontColor=4F8BFF&animation=fadeIn&fontAlignY=42&desc=Portfolio%20System%20%C2%B7%20v1.0&descAlignY=68&descSize=14&descColor=8b95ab" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0B1220&height=150&section=header&text=Full%20Stack%20Developer&fontSize=32&fontColor=4F8BFF&animation=fadeIn&fontAlignY=42&desc=Tarek%20Najem%20%C2%B7%20Developer%20Intelligence%20Interface&descAlignY=68&descSize=14&descColor=8b95ab" width="100%"/>
 
 </div>
 
@@ -38,12 +38,12 @@ Analyzing profile...
 
 <div align="center">
 
-## Software Engineer
+## Full Stack Developer
 
-Building scalable web applications
-with modern technologies.
+From database to interface —
+building complete web applications end to end.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=460&lines=Backend+Developer;Full+Stack+Developer;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Backend+%2B+Frontend+%2B+Infra;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
 ![Available](https://img.shields.io/badge/-Available%20for%20Internship-111827?style=for-the-badge&labelColor=111827&color=4F8BFF)
@@ -64,7 +64,7 @@ with modern technologies.
 
 **📍 About Me**
 
-Étudiant en ingénierie informatique, full stack orienté backend. Je construis des systèmes sécurisés, testés, et pensés pour tenir en conditions réelles.
+Étudiant en ingénierie informatique, développeur full stack : je conçois autant le backend (API, sécurité, base de données) que le frontend (interfaces React modernes), et je déploie le tout via Docker.
 
 </td>
 <td align="center" width="33%">
