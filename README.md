@@ -196,8 +196,9 @@ Current focus
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=tareknjm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0B1E&title_color=8B5CF6&icon_color=8B5CF6&text_color=E5E5E5" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareknjm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0B1E&title_color=8B5CF6&text_color=E5E5E5" height="165"/>
+![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
+![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
+![Top Language](https://img.shields.io/github/languages/top/tareknjm/elearning-backend?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
 
 </div>
 
