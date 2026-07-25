@@ -33,37 +33,36 @@ $ whoami
 
 <div align="center">
 
-## 🧩 Overview
+## Overview
 
 <table>
 <tr>
 <td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/location-dot.svg?color=%234F8BFF&height=26"/>
 
-**📍 About**
-
-Étudiant en ingénierie informatique, développeur full stack orienté backend
-
-</td>
-<td align="center" width="25%">
-
-**🎯 Focus**
-
-Architecture sécurisée, tests, infra Docker
+**About**
+<sub>Étudiant en ingénierie informatique, développeur full stack orienté backend</sub>
 
 </td>
 <td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%234F8BFF&height=26"/>
 
-**🛠 Stack**
-
-Java · Spring Boot
-React · PostgreSQL
+**Focus**
+<sub>Architecture sécurisée, tests, infra Docker</sub>
 
 </td>
 <td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=%234F8BFF&height=26"/>
 
-**📡 Contact**
+**Stack**
+<sub>Java · Spring Boot<br/>React · PostgreSQL</sub>
 
-[GitHub](https://github.com/tareknjm)
+</td>
+<td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/satellite-dish.svg?color=%234F8BFF&height=26"/>
+
+**Contact**
+<sub>[GitHub](https://github.com/tareknjm)</sub>
 
 </td>
 </tr>
@@ -75,94 +74,88 @@ React · PostgreSQL
 
 <div align="center">
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%234F8BFF&height=26" valign="middle"/>&nbsp; Featured Projects
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🩺 HealthCheck Monitor
-*Real-time HTTP/HTTPS monitoring platform*
+<img src="https://api.iconify.design/fa6-solid/heart-pulse.svg?color=%234F8BFF&height=20" valign="middle"/> **HealthCheck Monitor** &nbsp;·&nbsp; <sub><i>Real-time HTTP/HTTPS monitoring platform</i></sub>
 
-`Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
+<img src="https://img.shields.io/badge/-Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-Keycloak-111827?style=flat-square&logo=keycloak&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=4F8BFF"/>
+
+> Auth centralisée via Keycloak · Protection anti-SSRF (`UrlSecurityValidator`) · Docker Compose entièrement healthchecked · 50+ tests, backend & frontend
 
 ```diff
 + SSRF-hardened URL validation, 50+ tests passing
 ```
-- Auth centralisée via Keycloak
-- Protection anti-SSRF (`UrlSecurityValidator`)
-- Docker Compose entièrement healthchecked
-- 50+ tests, backend & frontend
 
-[→ View Project](https://github.com/stodar/Observateur-des-services)
+<a href="https://github.com/stodar/Observateur-des-services">View Project <img src="https://api.iconify.design/fa6-solid/arrow-up-right-from-square.svg?color=%234F8BFF&height=12" valign="middle"/></a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td>
 
-### 🎓 E-Learning Platform
-*Enrollment to certification, end to end*
+<img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%234F8BFF&height=20" valign="middle"/> **E-Learning Platform** &nbsp;·&nbsp; <sub><i>Enrollment to certification, end to end</i></sub>
 
-`Spring Boot` `JWT` `MySQL` `React` `Vite`
+<img src="https://img.shields.io/badge/-Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-MySQL-111827?style=flat-square&logo=mysql&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=4F8BFF"/> <img src="https://img.shields.io/badge/-Vite-111827?style=flat-square&logo=vite&logoColor=4F8BFF"/>
+
+> Auth JWT multi-rôles (Admin/Instructor/Learner) · Quiz interactifs + certificats PDF auto · Dashboard par rôle · Chatbot & analytics intégrés
 
 ```diff
 + Auto-generated PDF certificates, AI chatbot built in
 ```
-- Auth JWT multi-rôles (Admin/Instructor/Learner)
-- Quiz interactifs + certificats PDF auto
-- Dashboard par rôle
-- Chatbot & analytics intégrés
 
-[→ View Project](https://github.com/tareknjm/elearning-backend)
+<a href="https://github.com/tareknjm/elearning-backend">View Project <img src="https://api.iconify.design/fa6-solid/arrow-up-right-from-square.svg?color=%234F8BFF&height=12" valign="middle"/></a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
 <div align="center">
 
-## ⚙️ Tech Stack
+## <img src="https://api.iconify.design/fa6-solid/gears.svg?color=%234F8BFF&height=26" valign="middle"/>&nbsp; Tech Stack
 
 <table>
 <tr>
 <td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/server.svg?color=%234F8BFF&height=22"/><br/><b>Backend</b><br/><br/>
 
-**Backend**
-
-Java
-Spring Boot
-Laravel · Django
-.NET · PHP
-
-</td>
-<td align="center" width="25%">
-
-**Frontend**
-
-React
-Angular
-Tailwind CSS
-JavaScript
+<img src="https://img.shields.io/badge/-Java-111827?style=flat-square&logo=openjdk&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-Laravel-111827?style=flat-square&logo=laravel&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-Django-111827?style=flat-square&logo=django&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-.NET-111827?style=flat-square&logo=dotnet&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-PHP-111827?style=flat-square&logo=php&logoColor=4F8BFF"/>
 
 </td>
 <td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/display.svg?color=%234F8BFF&height=22"/><br/><b>Frontend</b><br/><br/>
 
-**Database**
-
-PostgreSQL
-MySQL
+<img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-Angular-111827?style=flat-square&logo=angular&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=4F8BFF"/>
 
 </td>
 <td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/database.svg?color=%234F8BFF&height=22"/><br/><b>Database</b><br/><br/>
 
-**DevOps**
+<img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-MySQL-111827?style=flat-square&logo=mysql&logoColor=4F8BFF"/>
 
-Docker
-Git
-Keycloak
+</td>
+<td align="center" width="25%">
+<img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%234F8BFF&height=22"/><br/><b>DevOps</b><br/><br/>
+
+<img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=4F8BFF"/><br/>
+<img src="https://img.shields.io/badge/-Keycloak-111827?style=flat-square&logo=keycloak&logoColor=4F8BFF"/>
 
 </td>
 </tr>
