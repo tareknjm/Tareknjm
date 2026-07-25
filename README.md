@@ -33,40 +33,12 @@ $ whoami
 
 <div align="center">
 
-## Overview
+## 👋 About Me
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://api.iconify.design/fa6-solid/location-dot.svg?color=%234F8BFF&height=26"/>
+Full Stack Developer focused on building secure,
+maintainable and production-ready applications.
 
-**About**
-<sub>Étudiant en ingénierie informatique, développeur full stack orienté backend</sub>
-
-</td>
-<td align="center" width="25%">
-<img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%234F8BFF&height=26"/>
-
-**Focus**
-<sub>Architecture sécurisée, tests, infra Docker</sub>
-
-</td>
-<td align="center" width="25%">
-<img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=%234F8BFF&height=26"/>
-
-**Stack**
-<sub>Java · Spring Boot<br/>React · PostgreSQL</sub>
-
-</td>
-<td align="center" width="25%">
-<img src="https://api.iconify.design/fa6-solid/satellite-dish.svg?color=%234F8BFF&height=26"/>
-
-**Contact**
-<sub>[GitHub](https://github.com/tareknjm)</sub>
-
-</td>
-</tr>
-</table>
+• Spring Boot&nbsp;&nbsp;•&nbsp;&nbsp;React&nbsp;&nbsp;•&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;•&nbsp;&nbsp;Docker&nbsp;&nbsp;•&nbsp;&nbsp;Security&nbsp;&nbsp;•&nbsp;&nbsp;Testing
 
 </div>
 
