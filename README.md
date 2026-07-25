@@ -1,9 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0B1E,100:1A0F2E&height=170&section=header&text=OPEN%20POSITION&fontSize=44&fontColor=8B5CF6&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20Full%20Stack&descAlignY=68&descSize=16&descColor=E5E5E5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0B1220&height=150&section=header&text=AI%20Developer%20Intelligence%20Interface&fontSize=28&fontColor=4F8BFF&animation=fadeIn&fontAlignY=42&desc=Portfolio%20System%20%C2%B7%20v1.0&descAlignY=68&descSize=14&descColor=8b95ab" width="100%"/>
 
-![Status](https://img.shields.io/badge/-1%20Position%20%C2%B7%201%20Candidate-0F0B1E?style=for-the-badge&labelColor=0F0B1E&color=8B5CF6)
-![Availability](https://img.shields.io/badge/-Available%20for%20Internship-0F0B1E?style=for-the-badge&labelColor=0F0B1E&color=22C55E)
+</div>
+
+<div align="center">
+
+```
+Initializing Portfolio...
+████████████████████████  100%
+
+AI Assistant Online
+```
 
 </div>
 
@@ -11,87 +19,117 @@
 
 <div align="center">
 
-### 📋 Job Posting
+### ◉ Identity Verification
 
-**Company:** *your team*
-**Location:** Remote / Morocco 🇲🇦
-**Type:** Internship / Full-time
-**Posted by:** Tarek Najem, applying to himself
+<img src="./assets/face-scan.svg" width="240" alt="identity scan"/>
 
-*I'm not asking you to read a profile. I'm asking you to review a candidate.*
+```
+Analyzing profile...
+✔ Face recognized
+✔ Identity verified
+✔ Portfolio loaded
+```
+
+**Welcome back, Tarek Najem.**
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-## 🧾 About the role
+## Software Engineer
 
-We're looking for a full stack developer who doesn't just make things work in a demo — someone who thinks about auth, edge cases, and what happens when things fail. Someone who writes tests because they care about the outcome, not because a checklist says so.
+Building scalable web applications
+with modern technologies.
 
-**Good news: that candidate already applied.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=460&lines=Backend+Developer;Full+Stack+Developer;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
 
----
+[![GitHub](https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
+![Available](https://img.shields.io/badge/-Available%20for%20Internship-111827?style=for-the-badge&labelColor=111827&color=4F8BFF)
 
-## ✅ Requirements — matched
+</div>
 
-| Requirement | Status |
-|---|---|
-| Solid backend fundamentals (Java / Spring Boot) | ✅ Met |
-| Modern frontend experience (React / Tailwind) | ✅ Met |
-| Understands authentication & security (JWT, OAuth2, Keycloak) | ✅ Met |
-| Writes real tests, not just code that "looks done" | ✅ Met — 50+ tests shipped |
-| Comfortable with Docker / containerized infra | ✅ Met |
-| Can ship a project end-to-end, alone | ✅ Met — 2x |
-| Communicates clearly, documents work | ✅ You're reading it |
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header" width="100%"/>
 
-## 💼 Proven experience — case studies
+<div align="center">
+
+## Dashboard
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🩺 HealthCheck Monitor
-**Challenge:** build a monitoring platform that catches failures before they become incidents.
+**📍 About Me**
 
-**What was delivered:**
-- SSRF-hardened URL validation
-- Centralized auth via Keycloak
-- Fully healthchecked Docker Compose stack
-- 50+ passing tests, backend & frontend
-
-`Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
-
-[→ Review the work](https://github.com/stodar/Observateur-des-services)
+Étudiant en ingénierie informatique, full stack orienté backend. Je construis des systèmes sécurisés, testés, et pensés pour tenir en conditions réelles.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🎓 E-Learning Platform
-**Challenge:** ship a learning platform covering enrollment through certification.
+**🧭 Experience**
 
-**What was delivered:**
-- JWT auth across 3 distinct roles
-- Auto-generated PDF certificates
-- Interactive quiz engine
-- Integrated chatbot & analytics
+2 plateformes complètes livrées, de l'authentification à l'infrastructure Docker, avec plus de 50 tests automatisés.
 
-`Spring Boot` `JWT` `MySQL` `React` `Vite`
+</td>
+<td align="center" width="33%">
 
-[→ Review the work](https://github.com/tareknjm/elearning-backend)
+**🎯 Current Focus**
+
+Renforcer l'architecture sécurisée, la culture du test, et explorer les systèmes distribués.
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🛠️ Skills on file
+<br/>
 
-<table align="center">
+<div align="center">
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**▣ HealthCheck Monitor**
+*Real-time monitoring platform*
+
+`Spring Boot` `PostgreSQL` `React` `Keycloak` `Docker`
+
+Auth centralisée, protection anti-SSRF, orchestration Docker Compose healthchecked, 50+ tests.
+
+[→ View Project](https://github.com/stodar/Observateur-des-services)
+
+</td>
+<td width="50%" valign="top">
+
+**▣ E-Learning Platform**
+*Full learning platform, end to end*
+
+`Spring Boot` `JWT` `MySQL` `React` `Vite`
+
+Auth JWT multi-rôles, quiz interactifs, certificats PDF, chatbot et analytics.
+
+[→ View Project](https://github.com/tareknjm/elearning-backend)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Stack
+
+<table>
 <tr>
 <td align="center" width="25%">
 
@@ -100,7 +138,6 @@ We're looking for a full stack developer who doesn't just make things work in a 
 Java
 Spring Boot
 Laravel · Django
-.NET · PHP
 
 </td>
 <td align="center" width="25%">
@@ -110,7 +147,6 @@ Laravel · Django
 React
 Angular
 Tailwind CSS
-JavaScript
 
 </td>
 <td align="center" width="25%">
@@ -123,7 +159,7 @@ MySQL
 </td>
 <td align="center" width="25%">
 
-**DevOps**
+**Tools**
 
 Docker
 Git
@@ -133,41 +169,43 @@ Keycloak
 </tr>
 </table>
 
----
-
-## 📇 References
-
-![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
-![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
-![Top Language](https://img.shields.io/github/languages/top/tareknjm/elearning-backend?style=for-the-badge&color=8B5CF6&labelColor=0F0B1E)
-
-*Full commit history and code samples available on request — see repositories above.*
-
----
-
-<div align="center">
-
-## 📨 How to apply
-
-Reach out, review the repositories, or just say hi.
-This candidate replies fast.
-
-[![GitHub](https://img.shields.io/badge/-View%20Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
-
-```
-$ application.submit(candidate="Tarek Najem", role="Software Engineer")
-> application received.
-> recommendation: schedule interview.
-```
+</div>
 
 <br/>
 
-────────────────────────
+<div align="center">
 
-**This position has one applicant, and he's confident.**
+## Active Mission
 
-────────────────────────
+| | |
+|---|---|
+| **Currently Building** | HealthCheck Monitor |
+| **Next Goal** | Cloud-Native Architecture |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F2E,100:0F0B1E&height=100&section=footer" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## GitHub Insights
+
+![Stars](https://img.shields.io/github/stars/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
+![Followers](https://img.shields.io/github/followers/tareknjm?style=for-the-badge&labelColor=111827&color=4F8BFF)
+![Top Language](https://img.shields.io/github/languages/top/tareknjm/elearning-backend?style=for-the-badge&labelColor=111827&color=4F8BFF)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Let's Build Something Great
+
+[![Contact](https://img.shields.io/badge/-Get%20In%20Touch-4F8BFF?style=for-the-badge&logoColor=white)](https://github.com/tareknjm)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:050816&height=90&section=footer" width="100%"/>
 
 </div>
