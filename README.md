@@ -10,8 +10,11 @@ $ whoami
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=4F8BFF&center=true&vCenter=true&width=520&lines=Backend+%2B+Frontend+%2B+Infra;Building+End-to-End+Web+Products;Secure+by+Design;Tested+in+Production" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
-![Available](https://img.shields.io/badge/-Available%20for%20Internship-111827?style=for-the-badge&labelColor=111827&color=4F8BFF)
 ![Views](https://komarev.com/ghpvc/?username=tareknjm&style=for-the-badge&color=4F8BFF&labelColor=111827&label=VIEWS)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,docker,git,tailwind,js,html,css&theme=dark" />
 
 </div>
 
