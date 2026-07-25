@@ -1,78 +1,106 @@
 <div align="center">
-  <img src="https://github.com/tareknjm.png" width="140" style="border-radius:50%;" alt="Tarek's avatar"/>
 
-  <h1>Hi, I'm Tarek 👋</h1>
-  <h3>Full Stack Developer | Backend-Leaning | Secure & Tested Systems</h3>
-  <p><i>Building applications that don't just work in the demo — they hold up under real conditions.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=tarek%2Fcareer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=a%20full%20stack%20repository%2C%20actively%20maintained&descAlignY=62&descSize=16" width="100%"/>
 
-  <a href="https://github.com/tareknjm"><img src="https://img.shields.io/badge/GitHub-tareknjm-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=tareknjm&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+[![GitHub](https://img.shields.io/badge/GitHub-tareknjm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
+![views](https://komarev.com/ghpvc/?username=tareknjm&style=for-the-badge&color=6D28D9&label=CLONES)
+
 </div>
 
 <br/>
 
-## 🚀 About Me
+## 📖 git log --graph --oneline
 
-I'm a full stack engineer focused on building **secure, well-tested, production-minded** applications — from the database to the UI.
+```
+* a3f9c21 (HEAD -> main) feat: harden HealthCheck Monitor with SSRF protection + 50 tests
+* 7b21e4d feat: add Keycloak auth + Docker Compose healthchecks to HealthCheck Monitor
+* d94a017 feat: ship E-Learning Platform — JWT auth, PDF certs, admin dashboard
+* 5c3fa88 feat: full stack pivot — React + Spring Boot as daily stack
+* 91ab2c0 chore: enroll in software engineering degree
+* 0000001 Initial commit — curiosity about how software actually works
+```
 
-I care about getting the fundamentals right: proper authentication, clean architecture, meaningful tests, and infrastructure that's actually reproducible (not "works on my machine").
-
-**Currently, I focus on:**
-- 🔐 Designing secure authentication systems (JWT, OAuth2, Keycloak)
-- 🧱 Building REST APIs with Spring Boot
-- 🎨 Building modern, responsive frontends with React
-- 🐳 Containerizing full stacks with Docker Compose
-- 🧪 Writing real test coverage, not just code that "looks done"
-
----
-
-## ⚡ Featured Projects
-
-### 🩺 HealthCheck Monitor
-`Java` `Spring Boot` `PostgreSQL` `React` `Redux` `Keycloak` `Docker`
-
-A real-time monitoring platform for HTTP/HTTPS services, built to catch failures before they become incidents.
-
-The system is split cleanly across a secured backend and a reactive frontend:
-- **Auth layer** — centralized identity and role management via **Keycloak**
-- **Security layer** — custom `UrlSecurityValidator` protecting against SSRF (blocks internal/cloud metadata addresses)
-- **Data layer** — PostgreSQL, service status history, and dashboards
-- **Frontend** — React + Redux, with dedicated slices for auth, services, dashboard, SMTP, and history
-- **Infra** — full Docker Compose orchestration with healthchecks, conditional `depends_on`, and restart policies on every service
-
-**Testing discipline:** 50+ tests across backend and frontend — SSRF protection tests, role-lockdown security tests on admin endpoints, and full Redux slice coverage on the frontend.
-
-🔗 [Explore the repo](https://github.com/stodar/Observateur-des-services)
+> `git blame README.md` will tell you this file is rewritten more often than most people update their CV. That's on purpose — this repo is a living build, not a snapshot.
 
 ---
 
-### 🎓 E-Learning Platform
-`Java` `Spring Boot` `JWT` `MySQL` `React` `Vite` `Tailwind CSS`
+## 🔀 Pull requests merged into production
 
-A full-featured e-learning platform covering the entire lifecycle from enrollment to certification.
+Real features, shipped and tested — not tutorial clones.
 
-- **Auth** — JWT-based authentication with role separation (Admin / Instructor / Learner)
-- **Dashboards** — tailored views per role
-- **Learning tools** — interactive quizzes and auto-generated PDF certificates
-- **Extras** — integrated chatbot and usage analytics
+<table>
+<tr><td width="60%">
 
-🔗 [Explore the repo](https://github.com/tareknjm/elearning-backend)
+**PR #2 — `HealthCheck Monitor`**
+*Real-time HTTP/HTTPS service supervision*
+
+```diff
++ UrlSecurityValidator (SSRF protection)   7/7 tests
++ Keycloak-based auth + role lockdown      passing
++ Docker Compose: healthchecks on all svc  healthy
++ 5 Redux slices, fully tested             43/43
++ React components (StatusChip, KPI...)    tested
+- naive "trust the URL" input handling
+```
+
+`Spring Boot` `PostgreSQL` `React` `Redux` `Keycloak` `Docker`
+[→ view diff](https://github.com/stodar/Observateur-des-services)
+
+</td><td width="40%" valign="top">
+
+**Review status**
+```
+✅ Approved
+🧪 Tests:     50+ passing
+🐳 Deploy:    docker compose up --build -d
+🔐 Security:  SSRF-hardened
+```
+
+</td></tr>
+<tr><td width="60%">
+
+**PR #1 — `E-Learning Platform`**
+*End-to-end learning platform, enrollment → certificate*
+
+```diff
++ JWT auth with 3 roles (Admin/Instructor/Learner)
++ Auto-generated PDF certificates
++ Interactive quiz engine
++ Analytics + chatbot integration
+- manual grading spreadsheets
+```
+
+`Spring Boot` `JWT` `MySQL` `React` `Vite` `Tailwind`
+[→ view diff](https://github.com/tareknjm/elearning-backend)
+
+</td><td width="40%" valign="top">
+
+**Review status**
+```
+✅ Approved
+🎓 Roles:     3 (RBAC)
+📄 Output:    PDF certs
+🤖 Extra:     AI chatbot
+```
+
+</td></tr>
+</table>
 
 ---
 
-## 🛠️ Technical Stack
+## 📡 GET /skills
 
-```js
-const tarek = {
-    backend: ["Java (Spring Boot)", ".NET", "Laravel", "Django", "PHP", "C#"],
-    frontend: ["React", "Angular", "Vite", "Tailwind CSS", "JavaScript"],
-    databases: ["MySQL", "PostgreSQL"],
-    auth: ["JWT", "OAuth2", "Keycloak"],
-    devops: ["Docker", "Docker Compose", "Git"],
-    testing: ["JUnit", "Vitest", "React Testing Library"],
-    mobile: ["Android", "Android Studio"],
-    currentFocus: ["Secure architecture", "Test coverage", "Clean infra"]
-};
+```json
+{
+  "backend": ["Spring Boot", "Java", ".NET", "Laravel", "Django", "PHP", "C#"],
+  "frontend": ["React", "Angular", "Vite", "Tailwind CSS", "JavaScript"],
+  "data": ["MySQL", "PostgreSQL"],
+  "auth": ["JWT", "OAuth2", "Keycloak"],
+  "infra": ["Docker", "Docker Compose", "Git"],
+  "testing": ["JUnit", "Vitest", "React Testing Library"],
+  "mobile": ["Android", "Android Studio"],
+  "status": 200
+}
 ```
 
 <div align="center">
@@ -101,23 +129,18 @@ const tarek = {
 
 ---
 
-## 🧠 Engineering Focus
+## 🐛 Known issues (a.k.a. what I'm working on)
 
-- Designing systems that stay secure under real-world attack surfaces (not just happy-path demos)
-- Writing tests that actually catch regressions — backend and frontend alike
-- Keeping infrastructure reproducible: one `docker compose up` should be enough
-- Favoring clarity over cleverness in architecture decisions
-
-## 🎯 Current Focus
-
-- Hardening production readiness on ongoing projects (full test coverage, prod-grade configs)
-- Deepening system design and backend architecture skills
-- Exploring CI/CD pipelines and cloud deployment
-- Growing toward more distributed, event-driven system design
+```
+ISSUE #14  Not enough production traffic to test at real scale     [open]
+ISSUE #11  CI/CD pipeline missing on personal projects              [in progress]
+ISSUE #9   Event-driven / distributed systems knowledge — v1.0      [backlog → started]
+ISSUE #3   Sleep schedule vs deploy schedule conflict                [won't fix]
+```
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 npm run stats
 
 <div align="center">
 
@@ -130,16 +153,19 @@ const tarek = {
 
 ---
 
-## 🤝 Connect With Me
-
-I'm open to collaborating on full stack projects, backend systems, and anything that involves building things properly.
-
 <div align="center">
+
+## 🤝 Open a pull request into your team
+
+I'm looking to merge into a team that ships real things — reach out and let's talk architecture.
 
 [![GitHub](https://img.shields.io/badge/GitHub-tareknjm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tareknjm)
 
-</div>
+```bash
+$ git commit -m "say hi to Tarek"
+$ git push origin your-team
+```
 
-<div align="center">
-  <sub>⭐ Thanks for stopping by!</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
